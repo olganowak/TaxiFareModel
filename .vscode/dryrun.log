@@ -1,0 +1,4 @@
+make: Entering directory `/Users/olganowak/code/olganowak/TaxiFareModel'
+pip install -r requirements.txt
+make: Leaving directory `/Users/olganowak/code/olganowak/TaxiFareModel'
+ 
